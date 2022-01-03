@@ -1,0 +1,126 @@
+/* Base //Desktop 1920 x 1080 //Mobile 375 x 812 */
+body {
+	margin: 0px;
+	/* padding: 0px;
+	background-image: url("images/Desktop/image_summer.png"); */
+	background: linear-gradient(180deg, #FFFFFF 0%, #F2F5FA 100%);
+	background-size: 100%;
+	background-attachment: fixed;
+	/*background-position: left 680px top -0px;*/
+	background-repeat: no-repeat;
+	position: absolute;
+	width: 1240px;
+	height: 1080px;
+	top:-0px;
+}
+/* logo_pineapple */
+.logo img {
+	position: absolute;
+	width: 118px;
+	height: 40px;
+	left: 100px;
+	top: 100px;
+}
+header {
+	position: absolute;
+	display: inline;
+}
+/* Top bar */
+.nav-area {
+    float: left;
+    list-style: none;
+	margin-top: 114px;
+    margin-left: 334px;
+}
+.nav-area li {
+    display: inline;
+}
+.nav-area li a {
+color: #060606;
+text-decoration: none;
+font-family: Arial;
+font-style: normal;
+font-size: 16px;
+padding: 10px;
+}
+main {
+	position: absolute;
+	width: 399px;
+	height: 44px;
+	top: 374px;
+	left: 140px;
+}
+/* Heading */
+h1 {
+	color: #131821;
+	font-family: Georgia;
+	font-size: 32px;
+	font-style: normal;
+	line-height: 44px;
+}
+/* Subheading */
+h3 {
+	color: #6A707B;
+	font-family: Arial;
+	font-size: 16px;
+	font-style: normal;
+	line-height: 28px;
+}
+/* Input */
+input checkbox {
+	position: absolute;
+	width: 663px;
+	height: 70px;
+	left: 100px;
+	top: 539px;
+}
+/* TOS */
+.term-of-service {
+	position: absolute;
+	width: 359px;
+	height: 28px;
+	left: 181px;
+	top: 662px;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 16px;
+	line-height: 28px;
+	color: #6A707B;
+}
+.link-of-service {
+	color:black;
+}
+	/* Checkmark */
+
+/* Line 
+hr {
+	position: absolute;
+	width: 400px;
+	height: 1px;
+	left: 140px;
+	top: 740px;
+	color: #E3E3E4;
+} */
+/* Image */
+img {
+	position: absolute;
+	width: 1240px;
+	height: 1080px;
+	left: 680px;
+	top: 0px;
+}
+	/* Base 
+img::after {
+	display: block;
+	position: relative;
+	background-color: black;
+	position: absolute;
+	width: 1240px;
+	height: 1080px;
+	left: 680px;
+	top: 0px;
+	content: "";
+	*/
+}
+/* Social icons */
