@@ -1,1 +1,1 @@
-# Magebit-homepage-start-project
+# homepage-start-project
